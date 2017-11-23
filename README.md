@@ -1,0 +1,2 @@
+# python-openshift
+openshift-test
